@@ -1,0 +1,28 @@
+name: Animal Care Clinic Bemidji
+favicon: null
+layout_spectrum: 0.6399971114005893
+typography_spectrum: 0.5658839726820588
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#6a6553'
+    - '#ffffff'
+    - '#9c968b'
+    - '#d3d1ca'
+    - '#3790c9'
+  brandStrength: 0.36101979692466557
+  lightness: 0.8513039578683674
+  saturation: 0.962211178150028
+  rhythmicContrast: 0.5906821086537093
+purpose: []
