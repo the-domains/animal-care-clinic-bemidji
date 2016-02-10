@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Animal Care Clinic Bemidji]]></title>
+        <description><![CDATA[Animal Care Clinic Bemidji]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 10 Feb 2016 17:49:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://scontent-ord1-1.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/417334_261079523976274_1782918196_n.jpg?oh=fcd250d6494e5260449c26ea06904b14&oe=57272084">]]></description>
+            <link>undefined970c7706-cff3-4e3f-b148-351e06e75373/index.html</link>
+            <guid isPermaLink="false">970c7706-cff3-4e3f-b148-351e06e75373</guid>
+            <pubDate>Wed, 10 Feb 2016 17:48:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
